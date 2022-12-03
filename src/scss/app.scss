@@ -28,8 +28,7 @@ html {
   flex-flow: column;
 }
 
-.navbar-nav{
-  position: -webkit-sticky; /* Safari */
-  position: sticky;
+.navbar{
+  position: fixed;
   top: 0;
 }
